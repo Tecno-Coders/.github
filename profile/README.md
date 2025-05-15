@@ -8,11 +8,11 @@ En **Tecnocoders**, ayudamos a empresas y startups a construir soluciones tecnol
 
 ## 🛠️ Servicios
 
-✅ **Desarrollo de Software** (Web, Móvil, Backend)
-✅ **Consultoría Tecnológica**
-✅ **Arquitectura de Software**
-✅ **Integraciones y APIs**
-✅ **Seguridad y Optimización de Sistemas**
+* ✅ **Desarrollo de Software** (Web, Móvil, Backend)
+* ✅ **Consultoría Tecnológica**
+* ✅ **Arquitectura de Software**
+* ✅ **Integraciones y APIs**
+* ✅ **Seguridad y Optimización de Sistemas**
 
 ## 🚀 Tecnologías que utilizamos
 
