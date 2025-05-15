@@ -16,10 +16,10 @@ En **Tecnocoders**, ayudamos a empresas y startups a construir soluciones tecnol
 
 ## 🚀 Tecnologías que utilizamos
 
-🔹 Java | Spring Boot | MariaDB
-🔹 JavaScript | React | NextJs | Vue.js
-🔹 DevOps | Docker | Kubernetes
-🔹 Cloud Computing (AWS, Azure, GCP)
+* 🔹 Java | Spring Boot | MariaDB
+* 🔹 JavaScript | React | NextJs | Vue.js
+* 🔹 DevOps | Docker | Kubernetes
+* 🔹 Cloud Computing (AWS, Azure, GCP)
 
 ## 📫 Contáctanos
 
